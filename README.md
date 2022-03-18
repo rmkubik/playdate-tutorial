@@ -25,6 +25,8 @@ I've adjusted these instructions to work for my CLI preference MacOS setup:
    open builds/source.pdx/
    ```
 
+This command combines the two above to quickly rebuild and relaunch the playdate simulator after a change.
+
 ```bash
 pdc source builds && open builds/source.pdx/
 ```
