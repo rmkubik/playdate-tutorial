@@ -18,3 +18,7 @@ I've adjusted these instructions to work for my CLI preference MacOS setup:
    ```bash
    open builds/source.pdx/
    ```
+
+```bash
+pdc source builds && open builds/source.pdx/
+```
