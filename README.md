@@ -1,3 +1,9 @@
+# Sources
+
+I adapted this repository from this [original template Playdate project](https://github.com/Whitebrim/VSCode-PlaydateTemplate).
+
+I followed (mostly, apart from Windows specific set up stuff) this [video tutorial](https://www.youtube.com/watch?v=AY9MnQ4x3zk) to get up to speed on the Playdate SDK basics.
+
 # Instructions
 
 This repo was originally made for building on Windows.
